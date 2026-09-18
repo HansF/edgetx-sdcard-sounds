@@ -148,5 +148,41 @@
     "name": "Chinese Hongkong Female",
     "description": "Chinese Hongkong Female Voice",
     "directory": "hk"
+  },
+  {
+    "language": "nl-BE",
+    "name": "Dutch (Flemish) Male",
+    "description": "Flemish Dutch Male Voice (ElevenLabs, Hans Claesen)",
+    "directory": "nl"
+  },
+  {
+    "language": "nl-BE",
+    "name": "Dutch (Flemish) Female",
+    "description": "Flemish Dutch Female Voice (ElevenLabs, Petra)",
+    "directory": "nl"
+  },
+  {
+    "language": "nl-NL",
+    "name": "Dutch Female",
+    "description": "Dutch Female Voice (ElevenLabs, Emma)",
+    "directory": "nl"
+  },
+  {
+    "language": "en-GB",
+    "name": "British English Male",
+    "description": "British English Male Voice (ElevenLabs, Daniel)",
+    "directory": "en"
+  },
+  {
+    "language": "en-AU",
+    "name": "Australian English Female",
+    "description": "Australian English Female Voice (ElevenLabs, Arabella)",
+    "directory": "en"
+  },
+  {
+    "language": "en-GB",
+    "name": "Scottish English Male",
+    "description": "Scottish English Male Voice (ElevenLabs, Adam)",
+    "directory": "en"
   }
 ]

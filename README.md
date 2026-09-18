@@ -23,9 +23,10 @@ The currently supported languages are:
 - Swedish
 - Ukrainian
 
+This fork adds ElevenLabs voice packs, including the first Dutch ones (see below).
+
 The following languages are not yet supported:
 
-- Dutch
 - Hungarian
 - Slovak
 
@@ -68,6 +69,32 @@ The Korean voice pack provides full support for native Korean speakers using Edg
   - `voices/ko-KR_scripts.csv` — numeric and special script terms
 - This voice pack was personally developed and contributed by [@siyeongjang](https://github.com/siyeongjang), a Korean RC enthusiast, to improve accessibility and user experience for Korean-speaking pilots.
 - Feedback or improvement suggestions are welcome. Please feel free to open an issue or leave a comment in the Pull Request.
+
+### ElevenLabs voices (Dutch, Flemish, English)
+
+`voice-gen-elevenlabs.py` generates the packs listed in `ELEVENLABS_VOICE_JOBS` in `voice_generation_config.py`:
+
+| Folder | Voice | Language |
+| --- | --- | --- |
+| `nl` | Hans Claesen (voice library), male | Dutch, Flemish |
+| `nl-petra` | Petra (voice library), female | Dutch, Flemish |
+| `nl-emma` | Emma (voice library), female | Dutch, standard |
+| `en_gb-daniel` | Daniel, male | English, British |
+| `en_au-arabella` | Arabella (voice library), female | English, Australian |
+| `en_sc-adam` | Adam (voice library), male | English, Scottish |
+
+The Dutch phrase lists are `voices/nl-NL.csv` and `voices/nl-NL_scripts.csv`. They use one Dutch for both sides of the border: pilots' loanwords stay (`armed`, `rates`, `VTX`), units follow Dutch grammar after a number (`vijf volt`, `vijf graden`).
+
+```bash
+echo 'ELEVENLABS_API_KEY=...' > .env
+uv run ./voice-gen-elevenlabs.py --dry-run          # characters it would spend
+uv run ./voice-gen-elevenlabs.py --only nl --verify # generate one folder, transcribe every clip back
+uv run ./voice-gen-elevenlabs.py --recheck          # regenerate clips whose transcription mismatched
+```
+
+Model `eleven_multilingual_v2`, stability 0.75, each phrase sent as a sentence (a trailing full stop stops one-word inputs from mumbling), output trimmed and peak-normalised to 32 kHz mono. `SOUNDS/<folder>/.elevenlabs.json` records the text, voice and settings behind every file, so editing a translation regenerates only that file. With `--verify`, each clip is transcribed with ElevenLabs speech-to-text and compared with its text; mismatches are listed and marked in the manifest.
+
+These packs are previewable and downloadable at https://hansf.github.io/edgetx-sound-themes/voices.html.
 
 ### Polish (pl-PL)
 

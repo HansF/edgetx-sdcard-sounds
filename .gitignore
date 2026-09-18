@@ -19,3 +19,7 @@ uv.lock
 
 # Environment variables
 .env
+
+# Local agent skills (npx skills add)
+.agents/
+skills-lock.json

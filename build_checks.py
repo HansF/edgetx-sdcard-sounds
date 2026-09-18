@@ -8,7 +8,7 @@ import json
 import sys
 import logging
 
-from voice_generation_config import AZURE_VOICE_JOBS, GLADOS_VOICE_JOBS
+from voice_generation_config import AZURE_VOICE_JOBS, ELEVENLABS_VOICE_JOBS, GLADOS_VOICE_JOBS
 
 # Optional: Use colorama for colored terminal output if available
 try:
@@ -100,7 +100,7 @@ def getCSVOutputDirsFromGenerateScript() -> dict[str, set[str]]:
     """Return the output directories configured for each CSV in generate.py."""
     csv_output_dirs: dict[str, set[str]] = {}
 
-    for job in (*AZURE_VOICE_JOBS, *GLADOS_VOICE_JOBS):
+    for job in (*AZURE_VOICE_JOBS, *GLADOS_VOICE_JOBS, *ELEVENLABS_VOICE_JOBS):
         csv_name = job.csv_path.name
         outdir = Path(job.langdir)
         if outdir.name == "SCRIPTS":

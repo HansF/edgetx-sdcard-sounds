@@ -97,6 +97,7 @@ def test_get_csv_output_dirs_from_generate_script_consolidates_scripts_dir(monke
     build_checks.getCSVOutputDirsFromGenerateScript.cache_clear()
     monkeypatch.setattr(build_checks, "AZURE_VOICE_JOBS", (fake_azure_job,))
     monkeypatch.setattr(build_checks, "GLADOS_VOICE_JOBS", ())
+    monkeypatch.setattr(build_checks, "ELEVENLABS_VOICE_JOBS", ())
     try:
         result = build_checks.getCSVOutputDirsFromGenerateScript()
         assert result == {"xx-XX.csv": {"xx"}}
