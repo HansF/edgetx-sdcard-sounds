@@ -244,6 +244,7 @@ def main() -> int:
     ap.add_argument("--verify", action="store_true", help="transcribe every new clip and flag mismatches")
     ap.add_argument("--recheck", action="store_true", help="regenerate clips whose last transcription mismatched")
     ap.add_argument("--limit", type=int, help="stop after N files per job (for testing)")
+    ap.add_argument("--budget", type=int, help="skip a job if it would push this period's character count past N")
     ap.add_argument("--rescore", action="store_true", help="recompute the transcription verdicts from the manifests, no API calls")
     ap.add_argument("--threads", type=int, default=3, help="parallel requests (ElevenLabs Starter allows 3)")
     args = ap.parse_args()
@@ -278,6 +279,13 @@ def main() -> int:
     total_files = total_chars = 0
     flagged_all = []
     for job in jobs:
+        if args.budget and not args.dry_run:
+            r = requests.get(f"{API}/user/subscription", headers={"xi-api-key": key}, timeout=30)
+            used = r.json()["character_count"] if r.ok else 0
+            need = sum(len(spoken(row["Translation"].strip())) for row in read_rows(job.csv_path))
+            if used + need > args.budget:
+                console.print(f"[yellow]{job.langdir}: skipped, {used} used + up to {need} would pass the budget of {args.budget}[/yellow]")
+                continue
         n, c, flagged = run_job(key, job, args)
         total_files += n
         total_chars += c

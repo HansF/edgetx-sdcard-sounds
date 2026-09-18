@@ -184,5 +184,47 @@
     "name": "Scottish English Male",
     "description": "Scottish English Male Voice (ElevenLabs, Adam)",
     "directory": "en"
+  },
+  {
+    "language": "en-IE",
+    "name": "Irish English Male",
+    "description": "Irish English Male Voice (ElevenLabs, Patrick)",
+    "directory": "en"
+  },
+  {
+    "language": "de-CH",
+    "name": "Swiss German Male",
+    "description": "Swiss German Male Voice (ElevenLabs, Peter)",
+    "directory": "de"
+  },
+  {
+    "language": "fr-BE",
+    "name": "Belgian French Male",
+    "description": "Belgian French Male Voice (ElevenLabs, Christophe G\u00e9radon)",
+    "directory": "fr"
+  },
+  {
+    "language": "fr-CA",
+    "name": "Quebec French Female",
+    "description": "Quebec French Female Voice (ElevenLabs, Danielle)",
+    "directory": "fr"
+  },
+  {
+    "language": "es-MX",
+    "name": "Mexican Spanish Male",
+    "description": "Mexican Spanish Male Voice (ElevenLabs, Enrique M. Nieto)",
+    "directory": "es"
+  },
+  {
+    "language": "en-GB",
+    "name": "British English Female",
+    "description": "British English Female Voice (ElevenLabs, Alice)",
+    "directory": "en"
+  },
+  {
+    "language": "pt-PT",
+    "name": "European Portuguese Male",
+    "description": "European Portuguese Male Voice (ElevenLabs, Paulo)",
+    "directory": "pt"
   }
 ]

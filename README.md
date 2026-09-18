@@ -82,6 +82,13 @@ The Korean voice pack provides full support for native Korean speakers using Edg
 | `en_gb-daniel` | Daniel, male | English, British |
 | `en_au-arabella` | Arabella (voice library), female | English, Australian |
 | `en_sc-adam` | Adam (voice library), male | English, Scottish |
+| `en_ie-patrick` | Patrick (voice library), male | English, Irish |
+| `de_ch-peter` | Peter (voice library), male | German, Swiss |
+| `fr_be-christophe` | Christophe Géradon (voice library), male | French, Belgian |
+| `fr_ca-danielle` | Danielle (voice library), female | French, Québec |
+| `es_mx-enrique` | Enrique M. Nieto (voice library), male | Spanish, Mexican |
+| `en_gb-alice` | Alice, female | English, British |
+| `pt_pt-paulo` | Paulo (voice library), male | Portuguese, European |
 
 The Dutch phrase lists are `voices/nl-NL.csv` and `voices/nl-NL_scripts.csv`. They use one Dutch for both sides of the border: pilots' loanwords stay (`armed`, `rates`, `VTX`), units follow Dutch grammar after a number (`vijf volt`, `vijf graden`).
 
