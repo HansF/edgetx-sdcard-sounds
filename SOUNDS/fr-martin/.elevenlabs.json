@@ -1,0 +1,2108 @@
+{
+ "SYSTEM/0000.wav": {
+  "fp": "ef77d9a43b99a390",
+  "model": "eleven_multilingual_v2",
+  "stt": "Zero",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "0",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0001.wav": {
+  "fp": "6b5ef1078a310a80",
+  "model": "eleven_multilingual_v2",
+  "stt": "One",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "1",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0002.wav": {
+  "fp": "f94aa4523ffbacca",
+  "model": "eleven_multilingual_v2",
+  "stt": "Tu",
+  "stt_ok": false,
+  "stt_score": 0.4,
+  "text": "2",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0003.wav": {
+  "fp": "b1a3d9699f52ea92",
+  "model": "eleven_multilingual_v2",
+  "stt": "Three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "3",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0004.wav": {
+  "fp": "bb6bf639f7be769c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Bon",
+  "stt_ok": false,
+  "stt_score": 0.29,
+  "text": "4",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0005.wav": {
+  "fp": "5acdffeed1d47b55",
+  "model": "eleven_multilingual_v2",
+  "stt": "Five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "5",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0006.wav": {
+  "fp": "2e6cdefde37de9b2",
+  "model": "eleven_multilingual_v2",
+  "stt": "Six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "6",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0007.wav": {
+  "fp": "f4cca2a3b018b963",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "7",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0008.wav": {
+  "fp": "03228b9d2751460a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "8",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0009.wav": {
+  "fp": "81986b440783fa44",
+  "model": "eleven_multilingual_v2",
+  "stt": "Nein",
+  "stt_ok": true,
+  "stt_score": 0.75,
+  "text": "9",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0010.wav": {
+  "fp": "70668dcc783a03e1",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ten",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "10",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0011.wav": {
+  "fp": "f4fc1a2a9562cd49",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eleven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "11",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0012.wav": {
+  "fp": "a122197374fffc13",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twelve",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "12",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0013.wav": {
+  "fp": "de51babb7e025850",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirteen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "13",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0014.wav": {
+  "fp": "feeed56bf457dca6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vérone",
+  "stt_ok": false,
+  "stt_score": 0.29,
+  "text": "14",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0015.wav": {
+  "fp": "cf1f5033646d0111",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifteen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "15",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0016.wav": {
+  "fp": "8be3931ff9fa607e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixteen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "16",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0017.wav": {
+  "fp": "c96a8a789bd1da00",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventeen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "17",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0018.wav": {
+  "fp": "434c69524e5417c4",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighteen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "18",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0019.wav": {
+  "fp": "350a863d23c90737",
+  "model": "eleven_multilingual_v2",
+  "stt": "Nineteen",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "19",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0020.wav": {
+  "fp": "ef5da565f9c08b7b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "20",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0021.wav": {
+  "fp": "534ad429b5116648",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "21",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0022.wav": {
+  "fp": "9e3cc74f9185ad02",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "22",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0023.wav": {
+  "fp": "e57f79d17bed0d63",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "23",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0024.wav": {
+  "fp": "7864face83216d00",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "24",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0025.wav": {
+  "fp": "fb5006d24076a9e3",
+  "model": "eleven_multilingual_v2",
+  "stt": "25",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "25",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0026.wav": {
+  "fp": "37d966aa30f73b83",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "26",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0027.wav": {
+  "fp": "a6314317a0ed335e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "27",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0028.wav": {
+  "fp": "1254f69dad942e32",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "28",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0029.wav": {
+  "fp": "7944e7261c6a746b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Twenty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "29",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0030.wav": {
+  "fp": "0c35e847b933fa51",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "30",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0031.wav": {
+  "fp": "48d5a582d5107336",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "31",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0032.wav": {
+  "fp": "04877e914c05dd3e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "32",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0033.wav": {
+  "fp": "49693d94a0cec6cc",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "33",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0034.wav": {
+  "fp": "5381164869306b59",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty folder",
+  "stt_ok": true,
+  "stt_score": 0.83,
+  "text": "34",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0035.wav": {
+  "fp": "3fa67c27793fb6d4",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "35",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0036.wav": {
+  "fp": "055048a0c00aefb7",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "36",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0037.wav": {
+  "fp": "82995cda92278f83",
+  "model": "eleven_multilingual_v2",
+  "stt": "37.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "37",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0038.wav": {
+  "fp": "0443a9be91fd42ce",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "38",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0039.wav": {
+  "fp": "9dfa60b546c0b42b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thirty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "39",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0040.wav": {
+  "fp": "07c04c903e00fb3e",
+  "model": "eleven_multilingual_v2",
+  "stt": "40",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "40",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0041.wav": {
+  "fp": "e45724ce1d8d7c98",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "41",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0042.wav": {
+  "fp": "92290cb57798e033",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "42",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0043.wav": {
+  "fp": "57b309f6e27a5541",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "43",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0044.wav": {
+  "fp": "7d66a2123b682aba",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "44",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0045.wav": {
+  "fp": "7c926dd1acebd060",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "45",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0046.wav": {
+  "fp": "38cecc04272a81a2",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "46",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0047.wav": {
+  "fp": "12f636a23a48e63b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "47",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0048.wav": {
+  "fp": "ba1fd803705575db",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "48",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0049.wav": {
+  "fp": "b1f3f2999d60c560",
+  "model": "eleven_multilingual_v2",
+  "stt": "Forty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "49",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0050.wav": {
+  "fp": "26935929df0ce946",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "50",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0051.wav": {
+  "fp": "c431e6036e092544",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "51",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0052.wav": {
+  "fp": "8752b71c2e62f9b3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "52",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0053.wav": {
+  "fp": "89a1ed7615cd4f32",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "53",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0054.wav": {
+  "fp": "bc2e4a7946932d8d",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "54",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0055.wav": {
+  "fp": "1628e50096c85e65",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "55",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0056.wav": {
+  "fp": "e3190f90b8e8a92a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "56",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0057.wav": {
+  "fp": "e87f96bd680893de",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-eleven",
+  "stt_ok": true,
+  "stt_score": 0.87,
+  "text": "57",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0058.wav": {
+  "fp": "0d2b8e27f0180982",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "58",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0059.wav": {
+  "fp": "0e777fbec82a8a4a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fifty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "59",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0060.wav": {
+  "fp": "e239922515d16da3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "60",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0061.wav": {
+  "fp": "2d5752bf0c82720e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "61",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0062.wav": {
+  "fp": "5b3478ff892433f2",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "62",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0063.wav": {
+  "fp": "46272c50c309c5b8",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "63",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0064.wav": {
+  "fp": "0ff99052fdb53e3d",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "64",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0065.wav": {
+  "fp": "9adf41c68bc76a15",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "65",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0066.wav": {
+  "fp": "61bb9ef20b7459f6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "66",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0067.wav": {
+  "fp": "c76194f635a92465",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "67",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0068.wav": {
+  "fp": "a88b980b7cf64f1b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "68",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0069.wav": {
+  "fp": "e915ac7847a52b96",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sixty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "69",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0070.wav": {
+  "fp": "1006de575a98cd0b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "70",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0071.wav": {
+  "fp": "40cc155c2ce7a9c3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "71",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0072.wav": {
+  "fp": "65dcbf5f174b5f71",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "72",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0073.wav": {
+  "fp": "ea54af5afc70224c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "73",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0074.wav": {
+  "fp": "0404a82623afe1ab",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "74",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0075.wav": {
+  "fp": "986642aa3bc8d618",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "75",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0076.wav": {
+  "fp": "431a9b0d95aada12",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "76",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0077.wav": {
+  "fp": "93258c5bbfa5aff9",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "77",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0078.wav": {
+  "fp": "c5380c957565da40",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "78",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0079.wav": {
+  "fp": "29e3400624bc5478",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seventy-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "79",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0080.wav": {
+  "fp": "e8d1cd5661bfc0f0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "80",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0081.wav": {
+  "fp": "b96ebaa7e50e4c1f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "81",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0082.wav": {
+  "fp": "3a731a88109c2b47",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "82",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0083.wav": {
+  "fp": "77d74a15233ef0c2",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "83",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0084.wav": {
+  "fp": "272059c08d02c105",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "84",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0085.wav": {
+  "fp": "8d6cf19a235c197a",
+  "model": "eleven_multilingual_v2",
+  "stt": "85",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "85",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0086.wav": {
+  "fp": "2a23ceff2aadf691",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "86",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0087.wav": {
+  "fp": "58d612be5eaae198",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "87",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0088.wav": {
+  "fp": "167f396420463520",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "88",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0089.wav": {
+  "fp": "b11db8ee70a2ee92",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eighty-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "89",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0090.wav": {
+  "fp": "188d6ba0c24cff9c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "90",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0091.wav": {
+  "fp": "7991ab5b8587332b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-one",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "91",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0092.wav": {
+  "fp": "8030e0c010674543",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "92",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0093.wav": {
+  "fp": "fcc689e0c6fe6858",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "93",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0094.wav": {
+  "fp": "25b2f10c868b82e0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-four",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "94",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0095.wav": {
+  "fp": "50e1d51eed7f7479",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-five",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "95",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0096.wav": {
+  "fp": "2b9ea880c8f6dc2b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-six",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "96",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0097.wav": {
+  "fp": "a14d6e9143049949",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-seven",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "97",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0098.wav": {
+  "fp": "060f149bf1eb4fa5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "98",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0099.wav": {
+  "fp": "bb2646a457ed4051",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ninety-nine",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "99",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0100.wav": {
+  "fp": "4fbe2c3952441213",
+  "model": "eleven_multilingual_v2",
+  "stt": "Hundred",
+  "stt_ok": true,
+  "stt_score": 0.78,
+  "text": "100",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0101.wav": {
+  "fp": "b2f0a494a8f2a5ca",
+  "model": "eleven_multilingual_v2",
+  "stt": "Two hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "200",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0102.wav": {
+  "fp": "856b381b63ff4253",
+  "model": "eleven_multilingual_v2",
+  "stt": "Three hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "300",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0103.wav": {
+  "fp": "50398e733adda13f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Four hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "400",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0104.wav": {
+  "fp": "128300ddfed56f7c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Five hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "500",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0105.wav": {
+  "fp": "6334a73b1b83915c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Six hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "600",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0106.wav": {
+  "fp": "79adcd759a124204",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seven hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "700",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0107.wav": {
+  "fp": "291f5ca9d25beb39",
+  "model": "eleven_multilingual_v2",
+  "stt": "Eight hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "800",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0108.wav": {
+  "fp": "95f9fbe077cadc97",
+  "model": "eleven_multilingual_v2",
+  "stt": "Nine hundred",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "900",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0109.wav": {
+  "fp": "d7822c9a7aa707c5",
+  "model": "eleven_multilingual_v2",
+  "stt": "thousand",
+  "stt_ok": false,
+  "stt_score": 0.0,
+  "text": "1000",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0110.wav": {
+  "fp": "df2cefe258921017",
+  "model": "eleven_multilingual_v2",
+  "stt": "une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0111.wav": {
+  "fp": "290e599a756467a0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Bonze",
+  "stt_ok": true,
+  "stt_score": 0.89,
+  "text": "onze",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0112.wav": {
+  "fp": "40ff70e823900fd9",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vingt et une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "vingt et une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0113.wav": {
+  "fp": "bbb53d952646c2f5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Trente-et-une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "trente et une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0114.wav": {
+  "fp": "3ceabe60c47f8ee5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Quarante et une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "quarante et une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0115.wav": {
+  "fp": "cd37bb306429a7d0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Cinquante-et-une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "cinquante et une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0116.wav": {
+  "fp": "7ddfa2f19cf4ca58",
+  "model": "eleven_multilingual_v2",
+  "stt": "Soixante-et-une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "soixante et une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0117.wav": {
+  "fp": "d77cf21a06e920c8",
+  "model": "eleven_multilingual_v2",
+  "stt": "Soixante et onze",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "soixante et onze",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0118.wav": {
+  "fp": "c14adfc32fceca22",
+  "model": "eleven_multilingual_v2",
+  "stt": "Quatre-vingt-une",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "quatre vingt une",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0119.wav": {
+  "fp": "6566a095232e25e3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgil",
+  "stt_ok": true,
+  "stt_score": 0.77,
+  "text": "virgule",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0120.wav": {
+  "fp": "a722534c7f2402a7",
+  "model": "eleven_multilingual_v2",
+  "stt": "Et",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "et",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0121.wav": {
+  "fp": "652197f4293f4177",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mouais",
+  "stt_ok": true,
+  "stt_score": 0.73,
+  "text": "moins",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0122.wav": {
+  "fp": "16fa8ca211e3df29",
+  "model": "eleven_multilingual_v2",
+  "stt": "Minuit",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "minuit",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0123.wav": {
+  "fp": "ea33f6dd39e5eaac",
+  "model": "eleven_multilingual_v2",
+  "stt": "Midi",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "midi",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0180.wav": {
+  "fp": "ff4aa9b3d1f115c5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule zéro",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "virgule 0",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0181.wav": {
+  "fp": "3f3f26643ce0d91d",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule un",
+  "stt_ok": true,
+  "stt_score": 0.86,
+  "text": "virgule 1",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0182.wav": {
+  "fp": "0190f3c80a6d9200",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vergöldu",
+  "stt_ok": false,
+  "stt_score": 0.42,
+  "text": "virgule 2",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0183.wav": {
+  "fp": "6a61c5a65d7d18bb",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule three",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "virgule 3",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0184.wav": {
+  "fp": "30003b34530a176b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule peur",
+  "stt_ok": true,
+  "stt_score": 0.83,
+  "text": "virgule 4",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0185.wav": {
+  "fp": "b202daeecbaad2df",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgile sang",
+  "stt_ok": false,
+  "stt_score": 0.58,
+  "text": "virgule 5",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0186.wav": {
+  "fp": "5979b6f3c75eb494",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule 6",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "virgule 6",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0187.wav": {
+  "fp": "f6baa5c83ecede47",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgule 7",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "virgule 7",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0188.wav": {
+  "fp": "eebd425d90234f5a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Virgulei et un",
+  "stt_ok": true,
+  "stt_score": 0.74,
+  "text": "virgule 8",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/0189.wav": {
+  "fp": "6af6d47b316b75e9",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vergalnov",
+  "stt_ok": false,
+  "stt_score": 0.48,
+  "text": "virgule 9",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/amp0.wav": {
+  "fp": "d71513956f1f2445",
+  "model": "eleven_multilingual_v2",
+  "stt": "Ampère",
+  "stt_ok": true,
+  "stt_score": 0.92,
+  "text": "ampères",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/celsius0.wav": {
+  "fp": "d7f5f176dd978d2e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Dégres",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "degrés",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/db0.wav": {
+  "fp": "777afb250725ca12",
+  "model": "eleven_multilingual_v2",
+  "stt": "DB",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "DB",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/degf0.wav": {
+  "fp": "7f0e77bff793ebd3",
+  "model": "eleven_multilingual_v2",
+  "stt": "degrés Fahrenheit",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "degrés fahrenheit",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/degree0.wav": {
+  "fp": "d7f5f176dd978d2e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Des grès",
+  "stt_ok": true,
+  "stt_score": 0.86,
+  "text": "degrés",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/eebad.wav": {
+  "fp": "95813453e192df15",
+  "model": "eleven_multilingual_v2",
+  "stt": "EEPROM corrompu",
+  "stt_ok": true,
+  "stt_score": 0.9,
+  "text": "éprome corrompue",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/foot0.wav": {
+  "fp": "82830d31c7d39b54",
+  "model": "eleven_multilingual_v2",
+  "stt": "Pieds",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "pieds",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/founce0.wav": {
+  "fp": "68aa768591ed59e7",
+  "model": "eleven_multilingual_v2",
+  "stt": "On cesse",
+  "stt_ok": true,
+  "stt_score": 0.77,
+  "text": "onces",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/fps0.wav": {
+  "fp": "e8dfee8591a28652",
+  "model": "eleven_multilingual_v2",
+  "stt": "pieds par seconde",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "pieds par seconde",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/g0.wav": {
+  "fp": "fb2b23bd31fb49cc",
+  "model": "eleven_multilingual_v2",
+  "stt": "",
+  "stt_ok": false,
+  "stt_score": 0.0,
+  "text": "g",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/hello.wav": {
+  "fp": "a0abd0a93be65736",
+  "model": "eleven_multilingual_v2",
+  "stt": "Bienvenue sur Edge TX",
+  "stt_ok": true,
+  "stt_score": 0.98,
+  "text": "Bienvenue sur edge t x",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/hour0.wav": {
+  "fp": "a880820e290cdb23",
+  "model": "eleven_multilingual_v2",
+  "stt": "Heure",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "heure",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/inactiv.wav": {
+  "fp": "65e6f5b2c109c9f0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Radio inactive",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Radio inactive",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/knot0.wav": {
+  "fp": "ebd4580e9fc6e529",
+  "model": "eleven_multilingual_v2",
+  "stt": "No.",
+  "stt_ok": false,
+  "stt_score": 0.57,
+  "text": "noeud",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/kph0.wav": {
+  "fp": "87c0d12b8a98220b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Kilomètre heure",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "kilomètre heure",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/lowbatt.wav": {
+  "fp": "ccb07dfdb3a066b1",
+  "model": "eleven_multilingual_v2",
+  "stt": "Battery radio fable",
+  "stt_ok": true,
+  "stt_score": 0.9,
+  "text": "Batterie radio faible",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mamp0.wav": {
+  "fp": "4351ccdace25dea6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Milliampère",
+  "stt_ok": true,
+  "stt_score": 0.92,
+  "text": "milli ampères",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mamph0.wav": {
+  "fp": "1e927d3c837e9259",
+  "model": "eleven_multilingual_v2",
+  "stt": "milliampères heure",
+  "stt_ok": true,
+  "stt_score": 0.97,
+  "text": "milli ampères heure",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/maxtrim.wav": {
+  "fp": "cecdc282afb96dd3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Trim maximum atteint",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Trim maximum atteint",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/meter0.wav": {
+  "fp": "ce2c73ccdda87adc",
+  "model": "eleven_multilingual_v2",
+  "stt": "Maître",
+  "stt_ok": false,
+  "stt_score": 0.67,
+  "text": "mètres",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/midtrim.wav": {
+  "fp": "02b02c80a4162b4f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Trime centré",
+  "stt_ok": true,
+  "stt_score": 0.96,
+  "text": "Trim centré",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mintrim.wav": {
+  "fp": "260fed4d5e4cb87b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Trim minimum atteint",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Trim minimum atteint",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/minute0.wav": {
+  "fp": "386a93dcb37cab99",
+  "model": "eleven_multilingual_v2",
+  "stt": "Minute",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "minute",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/ml0.wav": {
+  "fp": "e4197bd775fdc3c0",
+  "model": "eleven_multilingual_v2",
+  "stt": "millilitres",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "millilitres",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mlpm0.wav": {
+  "fp": "83ec00bc4b619794",
+  "model": "eleven_multilingual_v2",
+  "stt": "millilitres minute",
+  "stt_ok": true,
+  "stt_score": 0.97,
+  "text": "millilitre minute",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/modelpwr.wav": {
+  "fp": "2e843184bf923cab",
+  "model": "eleven_multilingual_v2",
+  "stt": "Récepteur encore sous tension",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Récepteur encore sous tension",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mph0.wav": {
+  "fp": "81fb08bb1de82b4b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Miles par heure",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "miles par heure",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mps0.wav": {
+  "fp": "7af8b9e0d2d41574",
+  "model": "eleven_multilingual_v2",
+  "stt": "Maître seconde",
+  "stt_ok": true,
+  "stt_score": 0.86,
+  "text": "mètres seconde",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/mwatt0.wav": {
+  "fp": "620291069574fcf5",
+  "model": "eleven_multilingual_v2",
+  "stt": "milliwatt",
+  "stt_ok": true,
+  "stt_score": 0.95,
+  "text": "milli watt",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/percent0.wav": {
+  "fp": "2c02b54081cc79c0",
+  "model": "eleven_multilingual_v2",
+  "stt": "Poor sense",
+  "stt_ok": false,
+  "stt_score": 0.63,
+  "text": "pourcents",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/rad0.wav": {
+  "fp": "532954e0b9f43563",
+  "model": "eleven_multilingual_v2",
+  "stt": "Radiance",
+  "stt_ok": true,
+  "stt_score": 0.8,
+  "text": "radians",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/rpm0.wav": {
+  "fp": "a840063e95d2c1de",
+  "model": "eleven_multilingual_v2",
+  "stt": "Tours minute",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "tours minute",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/rssi_org.wav": {
+  "fp": "334ad60b1fa6d956",
+  "model": "eleven_multilingual_v2",
+  "stt": "Signal RF Fable",
+  "stt_ok": true,
+  "stt_score": 0.97,
+  "text": "Signal RF, faible",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/rssi_red.wav": {
+  "fp": "acd6bd0e113e092c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Signal RF critique",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Signal RF, critique",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/rxko.wav": {
+  "fp": "902d842b4486863e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Surcharge réception",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Surcharge réception",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/second0.wav": {
+  "fp": "cbd0ef6fcac17524",
+  "model": "eleven_multilingual_v2",
+  "stt": "Seconde",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "seconde",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/sensorko.wav": {
+  "fp": "a989fd61d0419608",
+  "model": "eleven_multilingual_v2",
+  "stt": "Sonde de télémétrie perdue",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Sonde de télémétrie perdue",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/servoko.wav": {
+  "fp": "7d3670162e3575af",
+  "model": "eleven_multilingual_v2",
+  "stt": "Cerveau en surcharge.",
+  "stt_ok": true,
+  "stt_score": 0.84,
+  "text": "Servo en surcharge",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/swalert.wav": {
+  "fp": "e813fd9ee70248eb",
+  "model": "eleven_multilingual_v2",
+  "stt": "Alerte Interce.",
+  "stt_ok": true,
+  "stt_score": 0.89,
+  "text": "Alerte inters",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/swr_red.wav": {
+  "fp": "8c4384eaf378c543",
+  "model": "eleven_multilingual_v2",
+  "stt": "Antenne défectueuse",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Antenne défectueuse",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/telemco.wav": {
+  "fp": "e1742ec5a94d3809",
+  "model": "eleven_multilingual_v2",
+  "stt": "Télémétrie connectée.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Télémétrie connectée",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/telemko.wav": {
+  "fp": "4cae0829e299863c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Télémétrie perdue.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Télémétrie perdue",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/telemok.wav": {
+  "fp": "04b789c685a53003",
+  "model": "eleven_multilingual_v2",
+  "stt": "Télémétrie retrouvée",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Télémétrie retrouvée",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/thralert.wav": {
+  "fp": "703668905e0ed093",
+  "model": "eleven_multilingual_v2",
+  "stt": "Alertement chez des gaz",
+  "stt_ok": true,
+  "stt_score": 0.82,
+  "text": "Alerte manche des gaz",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/timovr1.wav": {
+  "fp": "96518c0256173580",
+  "model": "eleven_multilingual_v2",
+  "stt": "Chrono un à zéro.",
+  "stt_ok": true,
+  "stt_score": 0.91,
+  "text": "Chrono 1 à 0",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/timovr2.wav": {
+  "fp": "902f3278aba7a253",
+  "model": "eleven_multilingual_v2",
+  "stt": "Chrono deux pas zéro",
+  "stt_ok": true,
+  "stt_score": 0.76,
+  "text": "Chrono 2 à 0",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/timovr3.wav": {
+  "fp": "e6aba19af1bbb0f6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Chrono trois à zéro.",
+  "stt_ok": true,
+  "stt_score": 0.84,
+  "text": "Chrono 3 à 0",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/trainco.wav": {
+  "fp": "df9325e2bb3748ea",
+  "model": "eleven_multilingual_v2",
+  "stt": "Formateur connecté",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Formateur connecté",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/trainko.wav": {
+  "fp": "5c58dcae9381f359",
+  "model": "eleven_multilingual_v2",
+  "stt": "Signalé collage perdu",
+  "stt_ok": true,
+  "stt_score": 0.93,
+  "text": "Signal écolage perdu",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/trainok.wav": {
+  "fp": "27eef93d80797a6c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Signalé collage retrouvé",
+  "stt_ok": true,
+  "stt_score": 0.94,
+  "text": "Signal écolage retrouvé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/volt0.wav": {
+  "fp": "5c16973070052bdf",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vaults",
+  "stt_ok": true,
+  "stt_score": 0.73,
+  "text": "volts",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "SYSTEM/watt0.wav": {
+  "fp": "12aca36869d9a024",
+  "model": "eleven_multilingual_v2",
+  "stt": "What?",
+  "stt_ok": true,
+  "stt_score": 0.75,
+  "text": "watt",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "acro.wav": {
+  "fp": "eeaae93513960264",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode accro",
+  "stt_ok": true,
+  "stt_score": 0.95,
+  "text": "mode acro",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "alt.wav": {
+  "fp": "bd9f2cb1478695b4",
+  "model": "eleven_multilingual_v2",
+  "stt": "Altitude",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "altitude",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "armed.wav": {
+  "fp": "a300c50ac249cf44",
+  "model": "eleven_multilingual_v2",
+  "stt": "Armée",
+  "stt_ok": true,
+  "stt_score": 0.89,
+  "text": "armé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "attero.wav": {
+  "fp": "813764b7562d94f4",
+  "model": "eleven_multilingual_v2",
+  "stt": "Atterrissage.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "atterrissage",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "blkact.wav": {
+  "fp": "214931ee56089666",
+  "model": "eleven_multilingual_v2",
+  "stt": "Blackbox activé.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Blackbox activée",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "buzact.wav": {
+  "fp": "d566934fc46f706e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Buzzer activé",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Buzzer activé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "disarm.wav": {
+  "fp": "7a82ee2d356745a1",
+  "model": "eleven_multilingual_v2",
+  "stt": "Désarmé.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "désarmé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "engoff.wav": {
+  "fp": "48288f451d20406a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Moteur coupé",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "moteur coupé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "flapdn.wav": {
+  "fp": "bc1a2f4367129273",
+  "model": "eleven_multilingual_v2",
+  "stt": "Volet sorti",
+  "stt_ok": true,
+  "stt_score": 0.92,
+  "text": "volets sortis",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "flapup.wav": {
+  "fp": "4ec7aa9f2ad6a95d",
+  "model": "eleven_multilingual_v2",
+  "stt": "Volez rentrer",
+  "stt_ok": true,
+  "stt_score": 0.81,
+  "text": "volets rentrés",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-1.wav": {
+  "fp": "0e2657237ee40d1e",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol 1",
+  "stt_ok": true,
+  "stt_score": 0.9,
+  "text": "mode de vol un",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-2.wav": {
+  "fp": "0b6758ae87b882db",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol deux",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol deux",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-3.wav": {
+  "fp": "b28552e3cb6efc8f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol trois",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol trois",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-4.wav": {
+  "fp": "8c702d42edd9ff8f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol quatre",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol quatre",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-5.wav": {
+  "fp": "5ff9b77f660c8ba5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol cinq",
+  "stt_ok": true,
+  "stt_score": 0.81,
+  "text": "mode de vol 5",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-6.wav": {
+  "fp": "9bad39e0a8fa7a71",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol 6",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol 6",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-7.wav": {
+  "fp": "ec6143b0b1ac5a3f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol 7",
+  "stt_ok": true,
+  "stt_score": 0.85,
+  "text": "mode de vol sept",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-8.wav": {
+  "fp": "8f21d381a8fb4c78",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol huit",
+  "stt_ok": true,
+  "stt_score": 0.85,
+  "text": "mode de vol 8",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-9.wav": {
+  "fp": "7242236c1d5fca15",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol neuf",
+  "stt_ok": true,
+  "stt_score": 0.88,
+  "text": "mode de vol 9",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-acr.wav": {
+  "fp": "ba2d380a226f2477",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol accro",
+  "stt_ok": true,
+  "stt_score": 0.97,
+  "text": "mode de vol acro",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-crs.wav": {
+  "fp": "3079c8955953bb95",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol de croisière",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol de croisière",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-flt.wav": {
+  "fp": "d9a167aec7ab7b21",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol amerrissage",
+  "stt_ok": true,
+  "stt_score": 0.98,
+  "text": "mode de vol amérissage",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-fst.wav": {
+  "fp": "00a47bb6f2dfa769",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol rapide",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol rapide",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-lch.wav": {
+  "fp": "88df313d713cda2f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol lancé",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol lancé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-lnd.wav": {
+  "fp": "04daff8ebd4d371f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol atterrissage",
+  "stt_ok": true,
+  "stt_score": 0.98,
+  "text": "mode de vol attérissage",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-nrm.wav": {
+  "fp": "98fe2acec8a7f492",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol normal",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol normal",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-png.wav": {
+  "fp": "bd261636d074df5b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol ping",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol ping",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-pwr.wav": {
+  "fp": "7526061cbf12f5a6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol puissance",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol puissance",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-rce.wav": {
+  "fp": "9f27bbf6d72019eb",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol course",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol course",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-spd.wav": {
+  "fp": "dba207a9cd77a566",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol vitesse",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol vitesse",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-thl.wav": {
+  "fp": "28770db7c78faec5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol thermique gauche",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol thermique gauche",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-thm.wav": {
+  "fp": "25e1f833df11f84f",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol thermique",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol thermique",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "fm-thr.wav": {
+  "fp": "759d2ac488cc5c24",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode de vol thermique droit",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode de vol thermique droit",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "geardn.wav": {
+  "fp": "cd99cc22488a088c",
+  "model": "eleven_multilingual_v2",
+  "stt": "Train sortie",
+  "stt_ok": true,
+  "stt_score": 0.96,
+  "text": "train sorti",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "gearup.wav": {
+  "fp": "d5faa3e4359f7203",
+  "model": "eleven_multilingual_v2",
+  "stt": "Train rentré",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "train rentré",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "lnding.wav": {
+  "fp": "559b85b59b29fd84",
+  "model": "eleven_multilingual_v2",
+  "stt": "Landing mode on.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "landing. mode, on",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "lowbat.wav": {
+  "fp": "528b1a673e3f3e34",
+  "model": "eleven_multilingual_v2",
+  "stt": "Batterie faible",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "Batterie faible",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "lvlmod.wav": {
+  "fp": "123a786d561ca761",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode niveau",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "mode niveau",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "moteur.wav": {
+  "fp": "4ff510fa9ab33932",
+  "model": "eleven_multilingual_v2",
+  "stt": "Température moteur",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "température moteur",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "nrmmod.wav": {
+  "fp": "60f4dadcd6ac33d4",
+  "model": "eleven_multilingual_v2",
+  "stt": "Normal mode on.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "normal. mode, on",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "pitmod.wav": {
+  "fp": "7b0e71d4d4acccbe",
+  "model": "eleven_multilingual_v2",
+  "stt": "Mode force",
+  "stt_ok": true,
+  "stt_score": 0.8,
+  "text": "mode fosse",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "spdmod.wav": {
+  "fp": "fbe643dd55c739bd",
+  "model": "eleven_multilingual_v2",
+  "stt": "High speed mode active.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "high. speed. mode, active",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "tctrl.wav": {
+  "fp": "b931da9cb23e4f25",
+  "model": "eleven_multilingual_v2",
+  "stt": "Température contrôleur",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "température contrôleur",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "thmmod.wav": {
+  "fp": "030459c81bfc570a",
+  "model": "eleven_multilingual_v2",
+  "stt": "Thermal mode on.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "thermal. mode, on",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "trnoff.wav": {
+  "fp": "ff0e96aaa38ec288",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fin des collages",
+  "stt_ok": true,
+  "stt_score": 0.81,
+  "text": "fin écolage",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "trnon.wav": {
+  "fp": "f3a17fb4616a2dde",
+  "model": "eleven_multilingual_v2",
+  "stt": "Écorage",
+  "stt_ok": true,
+  "stt_score": 0.86,
+  "text": "écolage",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "vrioff.wav": {
+  "fp": "c3ab0afa4c3367d9",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vario désactivé.",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "vario désactivé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ },
+ "vrion.wav": {
+  "fp": "aa819fa12d4c8bf6",
+  "model": "eleven_multilingual_v2",
+  "stt": "Vario Active",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "vario activé",
+  "voice": "a5n9pJUnAhX4fn7lx3uo"
+ }
+}

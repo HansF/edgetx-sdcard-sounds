@@ -226,5 +226,35 @@
     "name": "European Portuguese Male",
     "description": "European Portuguese Male Voice (ElevenLabs, Paulo)",
     "directory": "pt"
+  },
+  {
+    "language": "de-DE",
+    "name": "German Male",
+    "description": "German Male Voice (ElevenLabs, Otto)",
+    "directory": "de"
+  },
+  {
+    "language": "fr-FR",
+    "name": "French Male",
+    "description": "French Male Voice (ElevenLabs, Martin Dupont)",
+    "directory": "fr"
+  },
+  {
+    "language": "it-IT",
+    "name": "Italian Male",
+    "description": "Italian Male Voice (ElevenLabs, MarcoTrox)",
+    "directory": "it"
+  },
+  {
+    "language": "cs-CZ",
+    "name": "Czech Male",
+    "description": "Czech Male Voice (ElevenLabs, Adam)",
+    "directory": "cz"
+  },
+  {
+    "language": "ru-RU",
+    "name": "Russian Male",
+    "description": "Russian Male Voice (ElevenLabs, Nikolay)",
+    "directory": "ru"
   }
 ]
