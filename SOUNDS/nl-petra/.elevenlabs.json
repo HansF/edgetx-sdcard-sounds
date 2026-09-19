@@ -785,9 +785,9 @@
  "SCRIPTS/YAAPU/armed.wav": {
   "fp": "b633b7d91780d382",
   "model": "eleven_multilingual_v2",
-  "stt": "Motor nærmt",
-  "stt_ok": false,
-  "stt_score": 0.7,
+  "stt": "motor en armed",
+  "stt_ok": true,
+  "stt_score": 0.96,
   "text": "motoren armed",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -2972,18 +2972,18 @@
  "SYSTEM/hour0.wav": {
   "fp": "16f9a5a8569716a0",
   "model": "eleven_multilingual_v2",
-  "stt": "Dus",
-  "stt_ok": false,
-  "stt_score": 0.33,
+  "stt": "Juur",
+  "stt_ok": true,
+  "stt_score": 0.86,
   "text": "uur",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
  "SYSTEM/hour1.wav": {
   "fp": "16f9a5a8569716a0",
   "model": "eleven_multilingual_v2",
-  "stt": "Juul",
-  "stt_ok": false,
-  "stt_score": 0.57,
+  "stt": "Juur",
+  "stt_ok": true,
+  "stt_score": 0.86,
   "text": "uur",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -3125,9 +3125,9 @@
  "SYSTEM/midtrim.wav": {
   "fp": "f4b62b59ed6a0a4f",
   "model": "eleven_multilingual_v2",
-  "stt": "Drie minuten minder",
-  "stt_ok": false,
-  "stt_score": 0.47,
+  "stt": "Trim in het midden",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "trim in het midden",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -3521,9 +3521,9 @@
  "SYSTEM/volt0.wav": {
   "fp": "b84f3c6c93c3223a",
   "model": "eleven_multilingual_v2",
-  "stt": "Walt",
-  "stt_ok": false,
-  "stt_score": 0.5,
+  "stt": "Volt",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "volt",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -3899,9 +3899,9 @@
  "cell.wav": {
   "fp": "cb2c834e90302c62",
   "model": "eleven_multilingual_v2",
-  "stt": "Zal",
+  "stt": "Chill",
   "stt_ok": false,
-  "stt_score": 0.33,
+  "stt_score": 0.67,
   "text": "cel",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -3971,9 +3971,9 @@
  "crowof.wav": {
   "fp": "0788564dd54e25ae",
   "model": "eleven_multilingual_v2",
-  "stt": "Kroaat?",
-  "stt_ok": false,
-  "stt_score": 0.43,
+  "stt": "Kro uit",
+  "stt_ok": true,
+  "stt_score": 0.8,
   "text": "crow uit",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },
@@ -4763,7 +4763,7 @@
  "gyro.wav": {
   "fp": "07cc7f1b72642d50",
   "model": "eleven_multilingual_v2",
-  "stt": "Zero",
+  "stt": "Kiro",
   "stt_ok": false,
   "stt_score": 0.5,
   "text": "gyro",
@@ -4889,9 +4889,9 @@
  "idleu2.wav": {
   "fp": "9456767de09b6e87",
   "model": "eleven_multilingual_v2",
-  "stt": "IJdel lukt zich",
-  "stt_ok": false,
-  "stt_score": 0.44,
+  "stt": "Aideluk twee",
+  "stt_ok": true,
+  "stt_score": 0.75,
   "text": "idle-up twee",
   "voice": "ANHrhmaFeVN0QJaa0PhL"
  },

@@ -4763,9 +4763,9 @@
  "gyro.wav": {
   "fp": "077937d5f1936705",
   "model": "eleven_multilingual_v2",
-  "stt": "Jiro",
-  "stt_ok": false,
-  "stt_score": 0.5,
+  "stt": "Gyro",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "Gyro",
   "voice": "onwK4e9ZLuTAKqWW03F9"
  },

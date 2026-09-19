@@ -2954,9 +2954,9 @@
  "SYSTEM/hertz0.wav": {
   "fp": "6012772fdef07013",
   "model": "eleven_multilingual_v2",
-  "stt": "Hurts",
-  "stt_ok": false,
-  "stt_score": 0.6,
+  "stt": "Hertz",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "hertz",
   "voice": "U5UjeJMsOvyhYhXfZdvZ"
  },
@@ -5249,9 +5249,9 @@
  "osd.wav": {
   "fp": "efb56eb89c3ea627",
   "model": "eleven_multilingual_v2",
-  "stt": "USD",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "OSD",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "OSD",
   "voice": "U5UjeJMsOvyhYhXfZdvZ"
  },

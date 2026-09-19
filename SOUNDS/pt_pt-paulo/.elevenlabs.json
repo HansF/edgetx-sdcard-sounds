@@ -542,7 +542,7 @@
  "SYSTEM/0056.wav": {
   "fp": "e1666b14e8df8f6b",
   "model": "eleven_multilingual_v2",
-  "stt": "Físics",
+  "stt": "Física",
   "stt_ok": false,
   "stt_score": 0.53,
   "text": "56",
@@ -614,9 +614,9 @@
  "SYSTEM/0064.wav": {
   "fp": "46bc4beea74c5c52",
   "model": "eleven_multilingual_v2",
-  "stt": "Zis before",
-  "stt_ok": false,
-  "stt_score": 0.5,
+  "stt": "Sixty four",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "64",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -731,9 +731,9 @@
  "SYSTEM/0077.wav": {
   "fp": "2c670df30f2c321a",
   "model": "eleven_multilingual_v2",
-  "stt": "Sincero",
-  "stt_ok": false,
-  "stt_score": 0.2,
+  "stt": "77",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "77",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -758,27 +758,27 @@
  "SYSTEM/0080.wav": {
   "fp": "317498bfa8640fc1",
   "model": "eleven_multilingual_v2",
-  "stt": "ET",
+  "stt": "É isso aí",
   "stt_ok": false,
-  "stt_score": 0.5,
+  "stt_score": 0.27,
   "text": "80",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
  "SYSTEM/0081.wav": {
   "fp": "66420c226e51b3cb",
   "model": "eleven_multilingual_v2",
-  "stt": "O que tu vão?",
-  "stt_ok": false,
-  "stt_score": 0.36,
+  "stt": "81",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "81",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
  "SYSTEM/0082.wav": {
   "fp": "80ae82b75a55c400",
   "model": "eleven_multilingual_v2",
-  "stt": "Adito",
+  "stt": "32",
   "stt_ok": false,
-  "stt_score": 0.4,
+  "stt_score": 0.7,
   "text": "82",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -965,7 +965,7 @@
  "SYSTEM/0103.wav": {
   "fp": "2739ec098877d608",
   "model": "eleven_multilingual_v2",
-  "stt": "300",
+  "stt": "300?",
   "stt_ok": false,
   "stt_score": 0.45,
   "text": "trezentos",
@@ -1001,9 +1001,9 @@
  "SYSTEM/0107.wav": {
   "fp": "eb86d84dde96d687",
   "model": "eleven_multilingual_v2",
-  "stt": "700",
-  "stt_ok": false,
-  "stt_score": 0.35,
+  "stt": "Sete acentos",
+  "stt_ok": true,
+  "stt_score": 0.91,
   "text": "setecentos",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -1172,9 +1172,9 @@
  "SYSTEM/0145.wav": {
   "fp": "05e63ff45680d135",
   "model": "eleven_multilingual_v2",
-  "stt": "Ou one",
-  "stt_ok": false,
-  "stt_score": 0.6,
+  "stt": "One",
+  "stt_ok": true,
+  "stt_score": 0.86,
   "text": "A1",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -1460,9 +1460,9 @@
  "SYSTEM/foot0.wav": {
   "fp": "47f638ed3835e2c1",
   "model": "eleven_multilingual_v2",
-  "stt": "Be",
+  "stt": "P",
   "stt_ok": false,
-  "stt_score": 0.5,
+  "stt_score": 0.67,
   "text": "pé",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -2873,9 +2873,9 @@
  "landin.wav": {
   "fp": "f0443a245f5559ba",
   "model": "eleven_multilingual_v2",
-  "stt": "Pois",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "Pouso",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "pouso",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -3116,9 +3116,9 @@
  "osd.wav": {
   "fp": "7cb9ff440a93dd3c",
   "model": "eleven_multilingual_v2",
-  "stt": "Oeste",
+  "stt": "OST",
   "stt_ok": false,
-  "stt_score": 0.5,
+  "stt_score": 0.67,
   "text": "O S D",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -3251,9 +3251,9 @@
  "rates2.wav": {
   "fp": "0d3a3ce5841a81b0",
   "model": "eleven_multilingual_v2",
-  "stt": "Write a per field way",
+  "stt": "Right Upper Field Way",
   "stt_ok": false,
-  "stt_score": 0.7,
+  "stt_score": 0.65,
   "text": "reite perfil  2",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },
@@ -3278,9 +3278,9 @@
  "rates5.wav": {
   "fp": "7ddbf1ccc6980b17",
   "model": "eleven_multilingual_v2",
-  "stt": "Pronto, perfil cinco",
-  "stt_ok": false,
-  "stt_score": 0.61,
+  "stt": "Preite perfil team",
+  "stt_ok": true,
+  "stt_score": 0.8,
   "text": "reite perfil  5",
   "voice": "aLFUti4k8YKvtQGXv0UO"
  },

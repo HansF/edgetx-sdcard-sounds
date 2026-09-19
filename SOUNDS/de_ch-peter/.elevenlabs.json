@@ -83,7 +83,7 @@
  "SYSTEM/0009.wav": {
   "fp": "c8351c33c7558834",
   "model": "eleven_multilingual_v2",
-  "stt": "neun",
+  "stt": "Neun",
   "stt_ok": false,
   "stt_score": 0.5,
   "text": "9",
@@ -965,9 +965,9 @@
  "SYSTEM/0107.wav": {
   "fp": "538d360381f09066",
   "model": "eleven_multilingual_v2",
-  "stt": "Uah",
+  "stt": "Wie",
   "stt_ok": false,
-  "stt_score": 0.67,
+  "stt_score": 0.0,
   "text": "uhr",
   "voice": "GgV5QStPLpmkN7FOHJtY"
  },
@@ -1028,18 +1028,18 @@
  "SYSTEM/0134.wav": {
   "fp": "e6a576843a5ff4c0",
   "model": "eleven_multilingual_v2",
-  "stt": "Uuund",
+  "stt": "wo",
   "stt_ok": false,
-  "stt_score": 0.25,
+  "stt_score": 0.0,
   "text": "Uhr",
   "voice": "GgV5QStPLpmkN7FOHJtY"
  },
  "SYSTEM/0135.wav": {
   "fp": "e6a576843a5ff4c0",
   "model": "eleven_multilingual_v2",
-  "stt": "Wo",
+  "stt": "[gesungen]",
   "stt_ok": false,
-  "stt_score": 0.0,
+  "stt_score": 0.18,
   "text": "Uhr",
   "voice": "GgV5QStPLpmkN7FOHJtY"
  },

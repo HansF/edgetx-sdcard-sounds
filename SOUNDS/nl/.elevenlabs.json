@@ -2513,9 +2513,9 @@
  "SYSTEM/0096.wav": {
   "fp": "c498d0fd6b4171db",
   "model": "eleven_multilingual_v2",
-  "stt": "Ze zeggen tegen dik",
+  "stt": "Ze zijn agentich",
   "stt_ok": false,
-  "stt_score": 0.56,
+  "stt_score": 0.55,
   "text": "zesennegentig",
   "voice": "s7Z6uboUuE4Nd8Q2nye6"
  },
@@ -4826,9 +4826,9 @@
  "high.wav": {
   "fp": "bbc64b76f7339789",
   "model": "eleven_multilingual_v2",
-  "stt": "Oeh",
-  "stt_ok": false,
-  "stt_score": 0.29,
+  "stt": "Hoog",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "hoog",
   "voice": "s7Z6uboUuE4Nd8Q2nye6"
  },

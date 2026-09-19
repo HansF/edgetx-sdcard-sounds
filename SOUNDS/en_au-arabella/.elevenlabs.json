@@ -1649,9 +1649,9 @@
  "SYSTEM/0000.wav": {
   "fp": "76914e0588cff1b3",
   "model": "eleven_multilingual_v2",
-  "stt": "Yeah",
-  "stt_ok": false,
-  "stt_score": 0.25,
+  "stt": "Zero",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "0",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -2936,9 +2936,9 @@
  "SYSTEM/g1.wav": {
   "fp": "6f39cd8408b0b6d6",
   "model": "eleven_multilingual_v2",
-  "stt": "She",
-  "stt_ok": false,
-  "stt_score": 0.0,
+  "stt": "G",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "G",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -2954,9 +2954,9 @@
  "SYSTEM/hertz0.wav": {
   "fp": "54132c21a0b29eb0",
   "model": "eleven_multilingual_v2",
-  "stt": "Hurts",
-  "stt_ok": false,
-  "stt_score": 0.6,
+  "stt": "Hearts",
+  "stt_ok": true,
+  "stt_score": 0.73,
   "text": "hertz",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -3521,9 +3521,9 @@
  "SYSTEM/volt0.wav": {
   "fp": "c0eb13e92fe8c674",
   "model": "eleven_multilingual_v2",
-  "stt": "Vault",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "Bolt",
+  "stt_ok": true,
+  "stt_score": 0.75,
   "text": "volt",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -4277,9 +4277,9 @@
  "expo2.wav": {
   "fp": "db73a4218e086942",
   "model": "eleven_multilingual_v2",
-  "stt": "Expodus",
+  "stt": "Expedow",
   "stt_ok": false,
-  "stt_score": 0.53,
+  "stt_score": 0.67,
   "text": "expo 2",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -5249,9 +5249,9 @@
  "osd.wav": {
   "fp": "537683c3311adeb1",
   "model": "eleven_multilingual_v2",
-  "stt": "OST",
+  "stt": "Boisty",
   "stt_ok": false,
-  "stt_score": 0.67,
+  "stt_score": 0.44,
   "text": "OSD",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },
@@ -5294,9 +5294,9 @@
  "osdon.wav": {
   "fp": "3c48298c6780c27c",
   "model": "eleven_multilingual_v2",
-  "stt": "Westion",
-  "stt_ok": false,
-  "stt_score": 0.5,
+  "stt": "OSD on",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "OSD,on",
   "voice": "aEO01A4wXwd1O8GPgGlF"
  },

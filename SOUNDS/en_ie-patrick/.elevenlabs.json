@@ -1721,9 +1721,9 @@
  "SYSTEM/0008.wav": {
   "fp": "2c45c54b3df1b9fc",
   "model": "eleven_multilingual_v2",
-  "stt": "Os",
-  "stt_ok": false,
-  "stt_score": 0.0,
+  "stt": "Eight",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "8",
   "voice": "qwaVDEGNsBllYcZO1ZOJ"
  },
@@ -2369,9 +2369,9 @@
  "SYSTEM/0080.wav": {
   "fp": "4dfe6f257f066148",
   "model": "eleven_multilingual_v2",
-  "stt": "Ulcer",
+  "stt": "Also",
   "stt_ok": false,
-  "stt_score": 0.18,
+  "stt_score": 0.0,
   "text": "80",
   "voice": "qwaVDEGNsBllYcZO1ZOJ"
  },

@@ -2882,9 +2882,9 @@
  "SYSTEM/foot1.wav": {
   "fp": "1a587c888ff3c961",
   "model": "eleven_multilingual_v2",
-  "stt": "Peace",
-  "stt_ok": false,
-  "stt_score": 0.44,
+  "stt": "Pies",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "pies",
   "voice": "gbTn1bmCvNgk0QEAVyfM"
  },

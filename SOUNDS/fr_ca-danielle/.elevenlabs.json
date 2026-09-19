@@ -983,7 +983,7 @@
  "SYSTEM/0109.wav": {
   "fp": "b36eaebc04531629",
   "model": "eleven_multilingual_v2",
-  "stt": "thousand",
+  "stt": "One thousand",
   "stt_ok": false,
   "stt_score": 0.0,
   "text": "1000",
@@ -992,9 +992,9 @@
  "SYSTEM/0110.wav": {
   "fp": "58739156b5287ea4",
   "model": "eleven_multilingual_v2",
-  "stt": "Et une",
+  "stt": "Et non",
   "stt_ok": false,
-  "stt_score": 0.67,
+  "stt_score": 0.22,
   "text": "une",
   "voice": "FVQMzxJGPUBtfz1Azdoy"
  },
@@ -1271,9 +1271,9 @@
  "SYSTEM/founce0.wav": {
   "fp": "ea4b7533dbe58fa2",
   "model": "eleven_multilingual_v2",
-  "stt": "[musique de fond]",
-  "stt_ok": false,
-  "stt_score": 0.2,
+  "stt": "Once is",
+  "stt_ok": true,
+  "stt_score": 0.83,
   "text": "onces",
   "voice": "FVQMzxJGPUBtfz1Azdoy"
  },
@@ -1307,9 +1307,9 @@
  "SYSTEM/hour0.wav": {
   "fp": "782f724a799869a0",
   "model": "eleven_multilingual_v2",
-  "stt": "Hera",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "Her",
+  "stt_ok": true,
+  "stt_score": 0.75,
   "text": "heure",
   "voice": "FVQMzxJGPUBtfz1Azdoy"
  },
@@ -1325,9 +1325,9 @@
  "SYSTEM/knot0.wav": {
   "fp": "4beb36a9aaa7d713",
   "model": "eleven_multilingual_v2",
-  "stt": "Noode",
+  "stt": "Noël",
   "stt_ok": false,
-  "stt_score": 0.6,
+  "stt_score": 0.67,
   "text": "noeud",
   "voice": "FVQMzxJGPUBtfz1Azdoy"
  },

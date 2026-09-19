@@ -3548,9 +3548,9 @@
  "SYSTEM/watt1.wav": {
   "fp": "19a470c4f9a9cfaf",
   "model": "eleven_multilingual_v2",
-  "stt": "What?",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "What's",
+  "stt_ok": true,
+  "stt_score": 0.8,
   "text": "watts",
   "voice": "Xb7hH8MSUJpSbSDYk0k2"
  },
@@ -4277,9 +4277,9 @@
  "expo2.wav": {
   "fp": "6c77920f3d2f7b12",
   "model": "eleven_multilingual_v2",
-  "stt": "Expo dues",
-  "stt_ok": false,
-  "stt_score": 0.59,
+  "stt": "Expo do",
+  "stt_ok": true,
+  "stt_score": 0.8,
   "text": "expo 2",
   "voice": "Xb7hH8MSUJpSbSDYk0k2"
  },
@@ -5051,9 +5051,9 @@
  "maxgyr.wav": {
   "fp": "6dc933001ca73a70",
   "model": "eleven_multilingual_v2",
-  "stt": "Mark Sguero",
+  "stt": "Mark Spero",
   "stt_ok": false,
-  "stt_score": 0.63,
+  "stt_score": 0.56,
   "text": "Max gyro",
   "voice": "Xb7hH8MSUJpSbSDYk0k2"
  },

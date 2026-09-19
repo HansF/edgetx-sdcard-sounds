@@ -65,9 +65,9 @@
  "SCRIPTS/BETAFLIGHT/p.wav": {
   "fp": "6b5d36151c6c2395",
   "model": "eleven_multilingual_v2",
-  "stt": "Thee",
-  "stt_ok": false,
-  "stt_score": 0.0,
+  "stt": "P",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "P",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -326,7 +326,7 @@
  "SCRIPTS/INAV/on.wav": {
   "fp": "06d761efca68eb9b",
   "model": "eleven_multilingual_v2",
-  "stt": "Ja.",
+  "stt": "Ja",
   "stt_ok": false,
   "stt_score": 0.4,
   "text": "aan",
@@ -1919,9 +1919,9 @@
  "SYSTEM/0030.wav": {
   "fp": "b56a2196ef64f3b7",
   "model": "eleven_multilingual_v2",
-  "stt": "Daardie",
+  "stt": "Dat heb ik",
   "stt_ok": false,
-  "stt_score": 0.31,
+  "stt_score": 0.38,
   "text": "dertig",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -2243,9 +2243,9 @@
  "SYSTEM/0066.wav": {
   "fp": "97305761415e188e",
   "model": "eleven_multilingual_v2",
-  "stt": "Test fantastic",
+  "stt": "Het is fantastisch",
   "stt_ok": false,
-  "stt_score": 0.32,
+  "stt_score": 0.41,
   "text": "zesenzestig",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -2504,9 +2504,9 @@
  "SYSTEM/0095.wav": {
   "fp": "41fd912cc4235519",
   "model": "eleven_multilingual_v2",
-  "stt": "55",
-  "stt_ok": false,
-  "stt_score": 0.67,
+  "stt": "Vijf en een geintig",
+  "stt_ok": true,
+  "stt_score": 0.79,
   "text": "vijfennegentig",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -2648,9 +2648,9 @@
  "SYSTEM/0111.wav": {
   "fp": "3879446bc4053eeb",
   "model": "eleven_multilingual_v2",
-  "stt": "Neem",
-  "stt_ok": false,
-  "stt_score": 0.29,
+  "stt": "Min",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "min",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -3521,18 +3521,18 @@
  "SYSTEM/volt0.wav": {
   "fp": "d0b9ff17febca3ad",
   "model": "eleven_multilingual_v2",
-  "stt": "Ja",
-  "stt_ok": false,
-  "stt_score": 0.0,
+  "stt": "Volt",
+  "stt_ok": true,
+  "stt_score": 1.0,
   "text": "volt",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
  "SYSTEM/volt1.wav": {
   "fp": "d0b9ff17febca3ad",
   "model": "eleven_multilingual_v2",
-  "stt": "Vault",
+  "stt": "Walt",
   "stt_ok": false,
-  "stt_score": 0.67,
+  "stt_score": 0.5,
   "text": "volt",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -3980,9 +3980,9 @@
  "crowon.wav": {
   "fp": "4f1c4dc224ab08c9",
   "model": "eleven_multilingual_v2",
-  "stt": "ProAm",
-  "stt_ok": false,
-  "stt_score": 0.46,
+  "stt": "Roaan",
+  "stt_ok": true,
+  "stt_score": 0.77,
   "text": "crow aan",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
@@ -4763,9 +4763,9 @@
  "gyro.wav": {
   "fp": "07c7d854f775fb0a",
   "model": "eleven_multilingual_v2",
-  "stt": "Caïro",
+  "stt": "Zero",
   "stt_ok": false,
-  "stt_score": 0.44,
+  "stt_score": 0.5,
   "text": "gyro",
   "voice": "OlBRrVAItyi00MuGMbna"
  },
