@@ -1,0 +1,110 @@
+{
+ "SYSTEM/0001.wav": {
+  "fp": "bd699d6eaab32247",
+  "model": "eleven_multilingual_v2",
+  "stt": "One",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "1",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/0002.wav": {
+  "fp": "722920814427fbf3",
+  "model": "eleven_multilingual_v2",
+  "stt": "Two",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "2",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/degree1.wav": {
+  "fp": "1fedbc703c362593",
+  "model": "eleven_multilingual_v2",
+  "stt": "Degrees",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "degrees",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/founce0.wav": {
+  "fp": "527280b136121d4e",
+  "model": "eleven_multilingual_v2",
+  "stt": "fluid ounce",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "fluid ounce",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/founce1.wav": {
+  "fp": "147039a738047f65",
+  "model": "eleven_multilingual_v2",
+  "stt": "Fluid ounces",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "fluid ounces",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/hertz0.wav": {
+  "fp": "23912d75e342ba0b",
+  "model": "eleven_multilingual_v2",
+  "stt": "Hurts",
+  "stt_ok": false,
+  "stt_score": 0.6,
+  "text": "hertz",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/ml0.wav": {
+  "fp": "e66ff62b3ecec118",
+  "model": "eleven_multilingual_v2",
+  "stt": "millilitre",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "millilitre",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/ml1.wav": {
+  "fp": "3c9319bee36bc71c",
+  "model": "eleven_multilingual_v2",
+  "stt": "milliliters",
+  "stt_ok": true,
+  "stt_score": 0.91,
+  "text": "millilitres",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/mlpm0.wav": {
+  "fp": "fe36473e5950998b",
+  "model": "eleven_multilingual_v2",
+  "stt": "milliliter per minute",
+  "stt_ok": true,
+  "stt_score": 0.95,
+  "text": "millilitre per minute",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/mlpm1.wav": {
+  "fp": "4fee54a39a0936f7",
+  "model": "eleven_multilingual_v2",
+  "stt": "milliliters per minute",
+  "stt_ok": true,
+  "stt_score": 0.95,
+  "text": "millilitres per minute",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/rad0.wav": {
+  "fp": "58c31812bb8445f5",
+  "model": "eleven_multilingual_v2",
+  "stt": "Radian",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "radian",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ },
+ "SYSTEM/rad1.wav": {
+  "fp": "1c42d5b9898403ee",
+  "model": "eleven_multilingual_v2",
+  "stt": "radians",
+  "stt_ok": true,
+  "stt_score": 1.0,
+  "text": "radians",
+  "voice": "ZEcx3Wdpj4EvM8PltzHY"
+ }
+}
